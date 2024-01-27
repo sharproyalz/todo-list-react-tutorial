@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+body {
+    background: rgb(26, 19, 142);
+    background: linear-gradient(90deg,
+            rgba(26, 19, 142, 1) 0%,
+            rgba(0, 212, 255, 1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+main {
+    width: 300px;
+    min-height: 400px;
+    padding: 8px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+#title {
+    margin-bottom: 12px;
+}
+
+#todos {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+#input-todos {
+    padding: 4px;
+    border-radius: 4px;
+    width: 100%;
+    border: 1px solid lightgrey;
+}
+
+#add-todos {
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #00d4ff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.delete-todos:active,
+#add-todos:active {
+    scale: 0.95;
+}
+
+.list-of-todos {
+    display: flex;
+    gap: 4px;
+    margin: 8px 0;
+}
+
+.text {
+    padding: 4px;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.delete-todos {
+    padding: 4px;
+    color: white;
+    background-color: #bb2124;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+#empty-text {
+    margin: 8px 0;
+}
