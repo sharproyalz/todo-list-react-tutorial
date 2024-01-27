@@ -58,3 +58,5 @@ For Template Literal (ES6 and later).
 const name = "Alice";
 const greeting = `Hello, ${name}!`;
 ```
+
+Congratulations! Lets proceed to lesson 4. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/4_lesson.md)

@@ -72,3 +72,5 @@ export default function MainPage() {
 ```
 
 In this example, I imported the `NavigationBar` component from `navigation-bar.jsx`. I used the imported `NavigationBar` inside the return value my `MainPage()` function as a component using `<NavigationBar />`.
+
+Congratulations! Lets proceed to lesson 8. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/8_lesson.md)

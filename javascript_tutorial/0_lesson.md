@@ -64,4 +64,4 @@ Step 7 - Last step.
 - copy my `App.css` from `./javascript_tutorial/starting_files` folder and paste it to your `App.css` from `src` folder.
 - copy my `App.jsx` from `./javascript_tutorial/starting_files` folder and paste it to your `App.jsx` from `src` folder.
 
-Congratulations! You can now start the tutorial. Click here
+Congratulations! You can now start the tutorial. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/1_lesson.md)

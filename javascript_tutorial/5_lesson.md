@@ -66,3 +66,5 @@ After this, you can use now use these React API Objects.
 ```js
 const [state, setState] = useState();
 ```
+
+Congratulations! Lets proceed to lesson 6. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/6_lesson.md)

@@ -39,3 +39,5 @@ const sum = numbers.reduce(
 
 console.log(sum); // Output: 15
 ```
+
+Congratulations! Lets proceed to lesson 9. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/9_lesson.md)

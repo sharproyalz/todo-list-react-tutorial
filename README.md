@@ -17,4 +17,4 @@ Here are the JS topics covered in this tutorial.
 
 - Setup and creating React project.
 
-Without further ado, let's begin our lesson. [Click here](https://github.com/sharproyalz/css-position/blob/main/0_Lesson/README.md#lesson-0---html-and-css)
+Without further ado, let's begin our lesson. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/0_lesson.md)

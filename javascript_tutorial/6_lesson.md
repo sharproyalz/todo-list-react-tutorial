@@ -31,3 +31,5 @@ const obj2 = { ...obj1, z: 3 };
 
 console.log(obj2); // Output: { x: 1, y: 2, z: 3 }
 ```
+
+Congratulations! Lets proceed to lesson 7. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/7_lesson.md)

@@ -51,3 +51,5 @@ const x = 10;
 const message = x > 5 ? "x is greater than 5" : "x is not greater than 5";
 console.log(message);
 ```
+
+Congratulations! Lets proceed to lesson 10. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/10_lesson.md)

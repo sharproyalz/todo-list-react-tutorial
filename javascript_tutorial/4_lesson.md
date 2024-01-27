@@ -40,3 +40,5 @@ const element = <p style={styles}>Styled Text</p>;
 ```
 
 These examples showcase the use of JavaScript expressions within JSX, allowing you to create dynamic and interactive React components. Do not be confused with JavaScript template literals `${}`, Keep in mind that JSX expressions are written within curly braces `{}`.
+
+Congratulations! Lets proceed to lesson 5. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/5_lesson.md)

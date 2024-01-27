@@ -35,4 +35,4 @@ const z = 30;
 // z = 40; // Error: Assignment to a constant variable
 ```
 
-
+Congratulations! Lets proceed to lesson 2. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/2_lesson.md)

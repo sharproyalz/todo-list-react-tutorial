@@ -22,3 +22,5 @@ const square = (a) => {
 // You can make it even more concise by removing the curly brackets and the return keyword altogether.
 const square = (a) => a * a;
 ```
+
+Congratulations! Lets proceed to lesson 3. [Click here](https://github.com/sharproyalz/todo-list-react-tutorial/blob/main/javascript_tutorial/3_lesson.md)
