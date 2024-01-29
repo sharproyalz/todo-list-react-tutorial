@@ -1,4 +1,4 @@
-## Lesson 9 - Create a Todo List
+## Lesson 10 - Create a Todo List
 
 A todo list is a list of the tasks that you have to do, or things that you want to do. You will create or add a task and delete it if you completed the task or you are done.Now, Lets start creating a todo list.
 
