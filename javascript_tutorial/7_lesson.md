@@ -1,4 +1,4 @@
-## Lesson 7 -Modules Import and Export
+## Lesson 7 - Modules Import and Export
 
 Modules in JavaScript provide a way to organize code by splitting it into separate files. The `import` and `export` statements are used to work with modules in ECMAScript 6 (ES6) and later.
 
